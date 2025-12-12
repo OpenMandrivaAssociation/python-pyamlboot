@@ -1,6 +1,6 @@
 Name:		python-pyamlboot
 Version:	1.0.0
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/p/pyamlboot/pyamlboot-%{version}.tar.gz
 Summary:	Amlogic SoC USB Boot utility
 URL:		https://pypi.org/project/pyamlboot/
